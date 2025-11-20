@@ -40,7 +40,7 @@ FIRST PROJECT.pbix → Power BI dashboard file
 
 Upload your dashboard image and use this code:
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/harshit-codes-analyst/Madhav_Ecommerce_Sales_/blob/main/MadhavDashboard.png)
 
 
 (Place your image inside an assets/ or images/ folder.)
@@ -62,5 +62,5 @@ This dashboard provides a fast and visually clear way to analyze key business da
 Feel free to contribute or suggest improvements.
 
 📬 Contact
-name - Harshit Tiwari
+name - Harshit Tiwari,
 linkdein - https://www.linkedin.com/in/harshit-tiwari-aa92a3373 
