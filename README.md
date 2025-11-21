@@ -1,8 +1,8 @@
-📊 Power BI Interactive Dashboard
+## 📊 Power BI Interactive Dashboard
 
 This project presents an interactive Power BI dashboard designed to transform raw data into meaningful business insights. It includes data cleaning, modeling, DAX calculations, and visually appealing reports that help users explore trends and make informed decisions.
 
-🚀 Features
+## 🚀 Features
 
 Clean and interactive dashboard layout
 
@@ -18,7 +18,7 @@ Data cleaning and transformation using Power Query
 
 Measures and calculations built using DAX
 
-🛠 Skills Used
+## 🛠 Skills Used
 
 Power BI
 
@@ -32,20 +32,12 @@ Data Visualization
 
 Dashboard Design
 
-📁 Project File
+## 📁 Project File
 
 FIRST PROJECT.pbix → Power BI dashboard file
 
-🖼 Dashboard Preview
-
-Upload your dashboard image and use this code:
-
+## 🖼 Dashboard Preview
 ![Dashboard Preview](https://github.com/harshit-codes-analyst/Madhav_Ecommerce_Sales_/blob/main/MadhavDashboard.png)
-
-
-(Place your image inside an assets/ or images/ folder.)
-
-📌 How to Use
 
 Download the .pbix file
 
@@ -53,14 +45,14 @@ Open in Power BI Desktop
 
 Explore report pages, slicers, and visuals
 
-📄 Description
+## 📄 Description
 
 This dashboard provides a fast and visually clear way to analyze key business data. It helps users identify trends, compare performance, and extract insights for better decision-making.
 
-🤝 Contributing
+## 🤝 Contributing
 
 Feel free to contribute or suggest improvements.
 
-📬 Contact
+## 📬 Contact
 name - Harshit Tiwari,
-linkdein - https://www.linkedin.com/in/harshit-tiwari-aa92a3373 
+LinkedIn - https://www.linkedin.com/in/harshit-tiwari-aa92a3373 
